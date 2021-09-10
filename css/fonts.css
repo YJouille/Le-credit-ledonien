@@ -1,0 +1,34 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "ERASBD";
+    src: url(../fonts/ERASBD.TTF);
+}
+
+@font-face{
+    font-family: 'ERAS BOLD';
+    src: url(../fonts/ErasBoldITC.ttf);
+}
+  
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Regular.ttf),
+            
+}
+@font-face {
+    font-family: 'OpenSans Light';
+    src: url(../fonts/OpenSans-Light.ttf);
+}
+@font-face {
+    font-family: 'OpenSans SemiBold';
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'OpenSans Italic';
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Oswald Regular';
+    src: url(../fonts/Oswald-Regular.ttf);
+}
