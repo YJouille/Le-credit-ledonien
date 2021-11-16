@@ -304,7 +304,7 @@ a:hover {
 }
 #rightBottomServices strong { color:white; }
 #visuel { width:100%; }
-#visuel img { width: 100%;}
+#visuel img { width: 100%;height: 275px;}
 
 .btnMore{
     display: block;
@@ -314,6 +314,11 @@ a:hover {
     text-align: left;
     cursor: pointer;
     background-color: #fff0;
+    margin-top: 20px;
+}
+
+#txtVisuel{
+    margin-top: 20px;
 }
 
 .btnMore::after{
@@ -482,6 +487,7 @@ html { scroll-behavior: smooth; }
     flex-direction: column;
     align-items: center;
     z-index: 20;
+    
 }
 
 /* Menu Burger */
@@ -491,6 +497,7 @@ html { scroll-behavior: smooth; }
     display: inline-block;
     margin: 40px 0px 80px 0px ;
     cursor: pointer;
+    
 } 
 
 #trait1{
@@ -576,7 +583,7 @@ button{
     top: 200px;
     width: 80px;
     height: 200px;
-    box-shadow:  15px 0px 50px rgba(49, 49, 49, 0.75) ;
+    box-shadow:  15px 0px 50px rgba(180, 180, 180, 0.75) ;
     z-index: 15;
 }
 /*   fin lateral bar*/
@@ -654,7 +661,7 @@ button{
         padding:5px;
         text-align: center;
         white-space: normal;
-
+        min-width: 360px !important;
     }
 
     #bottomAbout { flex-direction: column-reverse; }

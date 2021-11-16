@@ -13,7 +13,7 @@
 
     <div  class="btSim">
         <div class="ctnBtLeft">
-            <h3>crédit renouvelable</h3>
+            <h3>Crédit renouvelable</h3>
             <span>Un crédit jusqu'à 3000 €</span>
         </div>
         <div class="wrpArrow"><img src="img/arrow.svg" alt="arrow"></div>                    

@@ -65,7 +65,7 @@
                 <div id="trait1"></div>
                 <div id="trait2"></div>
                 <div id="trait3"></div>
-            <span id="Menu">Menu</span> 
+            <span id="Menu">MENU</span> 
             </div>    
             <div class="blockNavCenter" >
                 <button>FR</button>

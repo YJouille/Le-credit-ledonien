@@ -17,6 +17,6 @@
 <div id="itemFooter3">
     <p> Mentions légales <br>
     Politique de confidentialité <br>
-    Une réalisation<a href="https://www.accesscodeschool.fr/" target="blank" > ACS Lons le Saunier</a>
+    Une réalisation <a href="https://www.accesscodeschool.fr/" target="blank" >ACS Lons le Saunier</a>
 </div>
                 

@@ -55,17 +55,17 @@
                 </div>
                 <div id="bottomServices">
                     <div id="leftBottomServices">
-                        <button class="btnServices">Touvez votre prochain véhicule!</button>
-                        <button class="btnServices">Prêt personnel le Crédit Lédonien</button>
-                        <button class="btnServices">Carte de crédit MasterCard</button>
-                        <button class="btnServices">Prêt personnel Travaux</button> 
+                        <button id="choix1" class="btnServices">Touvez votre prochain véhicule!</button>
+                        <button id="choix2" class="btnServices">Prêt personnel le Crédit Lédonien</button>
+                        <button id="choix3" class="btnServices">Carte de crédit MasterCard</button>
+                        <button id="choix4" class="btnServices">Prêt personnel Travaux</button> 
                     </div>
                     <div id="rightBottomServices">
-                        <div id="visuel"><img src="img/creditAuto.jpg" alt="visuel"></div>
-                        <div>
-                            <p>Le <strong>Crédit Lédonien</strong> vous propose une large sélection de voiture en association avec nos partenaires locaux</p>
-                            <button class="btnMore">En savoir plus</button>
+                        <div id="visuel"><img id=imgDefault src="img/creditAuto.jpg" alt="visuel" height="250px"></div>
+                        <div id="txtVisuel">
+                            <p id="pDefault">Le <strong>Crédit Lédonien</strong> vous propose une large sélection de voiture en association avec nos partenaires locaux.</p>
                         </div>
+                    <button class="btnMore">En savoir plus</button>
                     </div>
                 </div>
             </section>
